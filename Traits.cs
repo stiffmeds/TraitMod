@@ -9,6 +9,7 @@ namespace TraitMod
     [HarmonyPatch]
     internal class Traits
     {
+        // list of your trait IDs
         public static string[] myTraitList = { "exampletrait" };
 
         public static void myDoTrait(string _trait, ref Trait __instance)
