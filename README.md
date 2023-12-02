@@ -12,4 +12,4 @@ Example mod for custom Across the Obelisk _effect_ traits.
 6. In **Traits.cs**, code effects for your traits in the _myDoTrait_ method.
 7. Build the project.
 
-... that�s it, I guess?
+... that's it, I guess?
